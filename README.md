@@ -1,6 +1,6 @@
 Face Recognition-Based Attendance System
 
-Overview
+Overview :
 This project is a Face Recognition-Based Attendance System that uses OpenCV and machine learning techniques to detect faces and mark attendance automatically. It consists of three main components:
 
 add_faces.py: Captures and stores facial data.
